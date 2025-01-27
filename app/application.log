@@ -1,0 +1,34 @@
+2025-01-27 22:54:28 INFO  com.employee.logging.LoggerUtil - Employees added.
+2025-01-27 22:54:28 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: com.employee.core.Employee@3b94d659
+2025-01-27 22:54:28 INFO  com.employee.logging.LoggerUtil - Employee updated.
+2025-01-27 22:54:56 INFO  com.employee.logging.LoggerUtil - Employees added.
+2025-01-27 22:54:56 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: com.employee.core.Employee@3b94d659
+2025-01-27 22:54:56 INFO  com.employee.logging.LoggerUtil - Employee updated.
+2025-01-27 22:56:17 INFO  com.employee.logging.LoggerUtil - Employees added.
+2025-01-27 22:56:17 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: com.employee.core.Employee@3b94d659
+2025-01-27 22:56:17 INFO  com.employee.logging.LoggerUtil - Employee updated.
+2025-01-27 23:57:32 INFO  com.employee.logging.LoggerUtil - Employees added.
+2025-01-27 23:57:32 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: com.employee.core.Employee@3b94d659
+2025-01-27 23:57:32 INFO  com.employee.logging.LoggerUtil - Employee updated.
+2025-01-27 23:59:14 INFO  com.employee.logging.LoggerUtil - Employees added.
+2025-01-27 23:59:14 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: com.employee.core.Employee@3b94d659
+2025-01-27 23:59:14 INFO  com.employee.logging.LoggerUtil - Employee updated.
+2025-01-28 00:05:19 INFO  com.employee.logging.LoggerUtil - Employees added.
+2025-01-28 00:05:19 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: com.employee.core.Employee@3b94d659
+2025-01-28 00:05:19 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: [com.employee.core.Employee@24b1d79b]
+2025-01-28 00:05:19 INFO  com.employee.logging.LoggerUtil - Employee updated.
+2025-01-28 00:07:37 INFO  com.employee.logging.LoggerUtil - Employee 2 get all details run successfully
+2025-01-28 00:07:37 INFO  com.employee.logging.LoggerUtil - Employees added.
+2025-01-28 00:07:37 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: com.employee.core.Employee@8b87145
+2025-01-28 00:07:37 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: [com.employee.core.Employee@6483f5ae]
+2025-01-28 00:07:37 INFO  com.employee.logging.LoggerUtil - Employee updated.
+2025-01-28 00:11:35 INFO  com.employee.logging.LoggerUtil - Employee 2 get all details run successfully
+2025-01-28 00:11:35 INFO  com.employee.logging.LoggerUtil - Employees added.
+2025-01-28 00:11:35 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: com.employee.core.Employee@8b87145
+2025-01-28 00:11:35 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: [com.employee.core.Employee@6483f5ae]
+2025-01-28 00:11:35 INFO  com.employee.logging.LoggerUtil - Employee updated.
+2025-01-28 00:12:06 INFO  com.employee.logging.LoggerUtil - Employee 2 get all details run successfully
+2025-01-28 00:12:06 INFO  com.employee.logging.LoggerUtil - Employees added.
+2025-01-28 00:12:06 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: com.employee.core.Employee@8b87145
+2025-01-28 00:12:06 INFO  com.employee.logging.LoggerUtil - Retrieved Employee: [com.employee.core.Employee@6483f5ae]
+2025-01-28 00:12:06 INFO  com.employee.logging.LoggerUtil - Employee updated.
