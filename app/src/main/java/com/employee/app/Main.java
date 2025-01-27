@@ -49,6 +49,7 @@ public class Main {
         logger.info("Employee updated.");
         System.out.println("Employees updated.");
 
+
         System.out.println("Program Terminated !!!");
     }
 }
